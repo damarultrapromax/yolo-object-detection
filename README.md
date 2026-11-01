@@ -3,7 +3,7 @@ My first project in AI Engineering: building a simpel TikTok-inspired recommenda
 
 
 
-from Nov 1, 2026 to Nov 7, 2026
+**Development Sprint:** November 1–7, 2026
 
 ## 🎯 Project Goals
 
