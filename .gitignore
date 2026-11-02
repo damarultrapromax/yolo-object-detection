@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+runs/
+*.avi
+*.mp4
+*.pt
+.idea/
+.vscode/
+.DS_Store
